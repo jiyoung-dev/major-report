@@ -1,0 +1,10 @@
+								FOLLOW THE INSTRUCTIONS TO GET THE COMMUNICATION TOOLBOX.
+***********************************************************************************************************************************************************************************************
+Open simulink and open the "simpleBpsk.slx"
+If the blocks of the model are in red color then follow the given steps:
+1.  Double click on any red block.
+2.  There is a new window. click on insall communication tool.
+3.  user/email: mundade@ctholic.ac.kr and password:Qnfauf676
+4.  Download It and insatll it and restart your matlab.
+
+***********************************************************************************************************************************************************************************************
